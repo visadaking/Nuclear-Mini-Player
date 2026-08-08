@@ -1,21 +1,36 @@
-# Nuclear Lyrics
+# Nuclear Lyrics 
 
 LRCLIB Spotify alike synced and lyrics and click-to-seek, draggable resizable panel, full-screen view, text resizing, copying lyrics, and manual refreshing
 
+## Installation Standalone Plugin 
 
-## Installing it as Standalone Plugin - 
+Open Nuclear.
 
-Open Nuclear
+Go to Preferences > Plugins.
 
-Navigate to Preferences
+Click Add Plugin.
 
-Plugins
+Navigate to or enter the following plugin directory:
+C:\Users\yourname\AppData\Roaming\com.nuclearplayer\plugins
 
-Add Plugin
+Find Nuclear Lyrics under the Installed section and make sure it's toggled on.
 
-C:\Users\yourname/AppData\Roaming\com.nuclearplayer\plugins
+## Synced Lyrics 
 
-Find Nuclear Lyrics in installed section and it should be turnt on for you!
+Go to Preferences > General 
+
+Scroll down
+
+Lyrics Provider
+
+Click on "Enabled"
+
+----------------------------------------------------------------------------
+
+Version 1.6
+Latest Update - 8/8/2026
+
+For any issues, please message me on discord - visa1697
 
 ## License
 
