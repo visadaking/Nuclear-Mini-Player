@@ -57,10 +57,12 @@ function checkPlugin(repo: string): string[] {
   }
 
   const nuclear = packageJson.nuclear as Record<string, unknown> | undefined;
-  if (!nuclear?.category) {
-    errors.push(`package.json in ${repo} missing nuclear.category field`);
+  const categories = nuclear?.categories as string[] | undefined;
+  const category = nuclear?.category as string | undefined;
+  if (!categories?.length && !category) {
+    errors.push(`package.json in ${repo} missing nuclear.categories field`);
   } else {
-    console.log(`  ✓ nuclear.category present`);
+    console.log(`  ✓ nuclear.categories present`);
   }
 
   let releaseCount: number;
