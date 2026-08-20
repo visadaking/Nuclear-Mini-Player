@@ -1,6 +1,6 @@
-# Nuclear Lyrics 
+# Nuclear Mini Player
 
-LRCLIB Spotify alike synced and lyrics and click-to-seek, draggable resizable panel, full-screen view, text resizing, copying lyrics, and manual refreshing
+Nuclear Mini Player features, native settings, synced and lyrics and click-to-seek, draggable resizable panel, full-screen view, text resizing, copying lyrics, and manual refreshing, lyric glow, queue menu
 
 ## Installation Standalone Plugin 
 
@@ -13,22 +13,14 @@ Click Add Plugin.
 Navigate to or enter the following plugin directory:
 C:\Users\yourname\AppData\Roaming\com.nuclearplayer\plugins
 
-Find Nuclear Lyrics under the Installed section and make sure it's toggled on.
+## Settings
 
-## Synced Lyrics 
-
-Go to Preferences > General 
-
-Scroll down
-
-Lyrics Provider
-
-Click on "Enabled"
+Settings for Nuclear Mini Player is in Preferences 
 
 ----------------------------------------------------------------------------
 
-Version 1.6
-Latest Update - 8/8/2026
+Version 1.7
+Latest Update - 21/0/8/2026
 
 For any issues, please message me on discord - visa1697
 
