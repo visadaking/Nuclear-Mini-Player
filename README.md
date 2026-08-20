@@ -20,7 +20,7 @@ Settings for Nuclear Mini Player is in Preferences
 ----------------------------------------------------------------------------
 
 Version 1.7
-Latest Update - 21/0/8/2026
+Latest Update - 21/8/2026
 
 For any issues, please message me on discord - visa1697
 
