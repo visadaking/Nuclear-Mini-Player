@@ -311,6 +311,27 @@
       "version": "0.6.0",
       "downloadUrl": "https://github.com/dasim427/nuclear-plugin-soundcloud-dashboard/releases/download/v0.6.0/plugin.zip",
       "addedAt": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "nuclear-plugin-netease",
+      "name": "NetEase Cloud Music",
+      "description": "Search, browse, and stream music from NetEase Cloud Music using yt-dlp",
+      "author": "nukeop",
+      "repo": "NuclearPlayer/nuclear-plugin-netease",
+      "categories": [
+        "metadata",
+        "streaming"
+      ],
+      "tags": [
+        "netease",
+        "chinese",
+        "metadata",
+        "streaming",
+        "yt-dlp"
+      ],
+      "version": "0.1.1",
+      "downloadUrl": "https://github.com/NuclearPlayer/nuclear-plugin-netease/releases/download/v0.1.1/plugin.zip",
+      "addedAt": "2026-08-15T00:00:00Z"
     }
   ],
   "version": 1
